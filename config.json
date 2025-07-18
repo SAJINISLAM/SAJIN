@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝚇 𝙽 𝙸 𝙻",
+  "nickNameBot": "𝗦𝗮𝗸𝘂𝗿𝗮",
   "prefix": "!",
   "adminOnly": {
     "enable": false,
@@ -28,7 +28,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100091913184229"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
@@ -150,4 +150,3 @@
     "autoReconnect": true,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-}
